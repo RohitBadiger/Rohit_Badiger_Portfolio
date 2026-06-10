@@ -68,7 +68,7 @@ export const PROJECTS = [
   {
     name: "DevLaunch",
     subtitle: "Simplifying Deployment",
-    github: "https://github.com/RohitBadiger/devlaunch",
+    github: "https://github.com/RohitBadiger/DevLaunch-Simplifying-Deployment",
     tech: ["Node.js", "AWS Lambda", "MongoDB", "JWT"],
     bullets: [
       "Built serverless deployment-trigger workflows on AWS Lambda and MongoDB, reducing manual deployment steps from 8 to 3.",
@@ -79,7 +79,7 @@ export const PROJECTS = [
   {
     name: "GrokMailClient",
     subtitle: "Java Email Client",
-    github: "https://github.com/RohitBadiger/grokmail",
+    github: "https://github.com/RohitBadiger/CodeClauseInternship_Email-Client-Software-in-Java",
     tech: ["Java", "IMAP", "SMTP", "Socket Programming"],
     bullets: [
       "Built a custom IMAP/SMTP email client from scratch using raw socket communication, supporting real-time inbox sync with under 300 ms latency.",
@@ -89,7 +89,7 @@ export const PROJECTS = [
   {
     name: "Salary Prediction Dashboard",
     subtitle: "ML-Powered Analytics",
-    github: "https://github.com/RohitBadiger/salary-predict",
+    github: "https://github.com/RohitBadiger/Smart_Study_Planner",
     tech: ["Python", "scikit-learn", "Streamlit", "Pandas"],
     bullets: [
       "Trained a regression model on 15,000+ rows, achieving R² = 0.92 — outperforming the baseline by 18%.",
@@ -101,8 +101,8 @@ export const PROJECTS = [
 export const CODING_PROFILES = [
   {
     name: "HackerRank",
-    handle: "abhibadiger8152",
-    url: "https://www.hackerrank.com/profile/abhibadiger8152",
+    handle: "RohitBadiger",
+    url: "https://www.hackerrank.com/profile/rohitbadiger",
     badge: "Java — 5-Star Gold",
     color: "#00EA64",
     bg: "from-[#00EA64]/10 to-[#00EA64]/5",
@@ -116,7 +116,7 @@ export const CODING_PROFILES = [
   {
     name: "TakeUForward (TUF)",
     handle: "RohitBadiger",
-    url: "https://takeuforward.org/profile/RohitBadiger",
+    url: "https://takeuforward.org/profile/Rohit8152",
     badge: "DSA A-Z Sheet",
     color: "#FF6B35",
     bg: "from-[#FF6B35]/10 to-[#FF6B35]/5",
