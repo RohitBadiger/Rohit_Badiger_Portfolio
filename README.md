@@ -1,23 +1,71 @@
-# Rohit Badiger — Portfolio
+# 🚀 Rohit Badiger Portfolio
 
-## Quick Start
+A modern and responsive developer portfolio built to showcase my skills, projects, certifications, and professional journey as a Software Developer.
 
-1. Open this folder in VS Code
-2. Open the terminal (Ctrl + `)
-3. Run:
-   npm install
-   npm run dev
-4. Open http://localhost:5173
+## 🌐 Live Demo
 
-## Update Resume Content
-Edit `src/data/resume.ts` to change jobs, projects, skills, certifications, or coding profiles.
+**Portfolio:** https://rohit-badiger-portfolio.vercel.app/
 
-## Update Your Profile URLs
-Click the pencil icon in the nav to update contact info (saves to browser).
+## ✨ Features
 
-## Update the Resume PDF
-Replace `public/Rohit_Resume.pdf` with your new resume file (keep the same filename).
+* Responsive design for desktop, tablet, and mobile
+* Professional developer-focused UI
+* Skills and technology showcase
+* Project portfolio section
+* Certifications and achievements
+* Resume download functionality
+* Contact information and social links
+* Fast performance with Vite
 
-## Build for Production
-   npm run build
-Output goes to `dist/` — deploy to Netlify, Vercel, or GitHub Pages.
+## 🛠️ Tech Stack
+
+* React.js
+* TypeScript
+* Vite
+* Tailwind CSS
+* HTML5
+* CSS3
+* JavaScript
+
+## 📂 Project Structure
+
+```text
+src/
+├── components/
+├── pages/
+├── data/
+├── assets/
+└── styles/
+```
+
+## 🚀 Deployment
+
+This portfolio is deployed on Vercel and automatically updates when changes are pushed to the repository.
+
+## 👨‍💻 About Me
+
+I am a Computer Science Engineering student with hands-on experience in:
+
+* Java
+* Spring Boot
+* Hibernate
+* MySQL
+* REST APIs
+* React.js
+* Full Stack Development
+
+I am passionate about building scalable applications and continuously improving my software engineering skills.
+
+## 📄 Resume
+
+The latest version of my resume can be downloaded directly from the portfolio website.
+
+## 📬 Contact
+
+* LinkedIn: Add Your LinkedIn URL
+* GitHub: Add Your GitHub URL
+* Email: Add Your Email
+
+## ⭐ Support
+
+If you like this project, consider giving it a star on GitHub.
