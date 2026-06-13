@@ -62,9 +62,9 @@ The latest version of my resume can be downloaded directly from the portfolio we
 
 ## 📬 Contact
 
-* LinkedIn: Add Your LinkedIn URL
-* GitHub: Add Your GitHub URL
-* Email: Add Your Email
+* LinkedIn: https://www.linkedin.com/in/rohit-badiger/
+* GitHub: (https://github.com/RohitBadiger)
+* Email: abhibadiger8152@gmail.com
 
 ## ⭐ Support
 
