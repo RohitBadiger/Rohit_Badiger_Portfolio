@@ -18,7 +18,7 @@ const DEFAULT_CONTACT: ContactInfo = {
   title: "Backend Software Engineer",
   phone: "+91 9035143766",
   email: "abhibadiger8152@gmail.com",
-  linkedin: "linkedin.com/in/rohit-badiger/",
+  linkedin: "linkedin.com/in/badigerrohit/",
   github: "github.com/RohitBadiger",
   hackerrank: "hackerrank.com/profile/abhibadiger8152",
   tuf: "takeuforward.org/profile/Rohit8152",
