@@ -6,7 +6,7 @@ export const DEFAULT_CONTACT = {
   linkedin: "linkedin.com/in/rohit-badiger/",
   github: "github.com/RohitBadiger",
   hackerrank: "hackerrank.com/profile/abhibadiger8152",
-  tuf: "takeuforward.org/profile/RohitBadiger",
+  tuf: "takeuforward.org/profile/Rohit8152",
 };
 
 export const SUMMARY =
