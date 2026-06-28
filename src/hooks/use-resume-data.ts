@@ -20,7 +20,7 @@ const DEFAULT_CONTACT: ContactInfo = {
   email: "abhibadiger8152@gmail.com",
   linkedin: "linkedin.com/in/badigerrohit/",
   github: "github.com/RohitBadiger",
-  hackerrank: "hackerrank.com/profile/abhibadiger8152",
+  hackerrank: "www.hackerrank.com/profile/rohitbadiger",
   tuf: "takeuforward.org/profile/Rohit8152",
 };
 
